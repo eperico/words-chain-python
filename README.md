@@ -15,5 +15,5 @@ test words chain between 'cat' and 'dog'
 This test will take about 30 seconds, depending on your machine
 
 # Run
-python3 wordsChain.py <file-for-dictionary>
+python3 wordsChain.py 'file-for-dictionary'
 
